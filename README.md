@@ -1,1 +1,1 @@
-# options-data-pipeline
+# options-data-pipelineA pipeline that collects options market data and checks its quality.
